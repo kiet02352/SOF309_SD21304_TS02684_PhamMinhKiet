@@ -33,3 +33,6 @@ HUONG_DAN_TRIEN_KHAI_ASSIGNMENT_GITHUB.md
 03-lecture-materials/
 05-ai-prompt-library/
 SOF304*
+
+# H2 database file (tự tạo lại khi chạy app)
+data/
